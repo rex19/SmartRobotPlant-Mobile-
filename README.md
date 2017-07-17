@@ -25,3 +25,6 @@ ReactNative+Antd-mobile(UI)+Native-Echart+Express.js+Sequelize+Mysql+KingView(OP
 ## 运行：
 - usb 真机/android模拟器
 - react-native run android
+
+## 发布：
+- 打包参考链接  http://reactnative.cn/docs/0.46/signed-apk-android.html#content
